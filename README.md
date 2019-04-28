@@ -8,7 +8,7 @@ $ apt install python
 
 $ apt install git
 
-$ git clone https://github.com/Myyepz/Sby
+$ git clone https://github.com/NOMAN-JRK/Sby
 
 $ cd Sby
 
@@ -20,7 +20,7 @@ $ python3 Sby.py
 
 Installation for VPS
 
-$ git clone https://github.com/Myyepz/Sby
+$ git clone https://github.com/NOMAN-JRK/Sby
 
 $ cd Sby
 
